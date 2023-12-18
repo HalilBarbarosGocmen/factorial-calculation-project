@@ -2,6 +2,6 @@ let sayi = Number(prompt('Lütfen faktöriyelini bulmak istediğiniz sayıyı gi
 let carpim = 1;
 
 for(let i = 1 ; i<=sayi ; i++){
-    carpim=carpim * i;
+    carpim=carpim *i;
 }
 alert('Sonuç : ' + carpim)
